@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Bottle Detection/
+train: Dataset/train
+val: Dataset/val
+
+names:
+  0: Four Cousin Wine
+  1: Pure Heaven
+  2: Veleta
